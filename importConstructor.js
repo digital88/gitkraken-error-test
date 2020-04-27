@@ -1,3 +1,3 @@
 import constructor from './constructor'
 
-const constructor = null;
+const constructor = new String('');
